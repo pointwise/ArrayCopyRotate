@@ -4,7 +4,7 @@ The script ArrayCopyRotate takes all grid and db ents in the current
 session and copies, pastes, and rotates them about a user defined axis
 and angle a user-prescribed number of times.
 
-![ArrayCopyRoate](https://raw.github.com/pointwise/ArrayCopyRotate/master/ArrayCopyRotate-example-400x186.png]
+![ArrayCopyRotate](https://raw.github.com/pointwise/ArrayCopyRotate/master/ArrayCopyRotate-example-400x186.png)
 
 Disclaimer
 ----------
